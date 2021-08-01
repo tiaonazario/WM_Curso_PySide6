@@ -11,6 +11,11 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
 
+        # SETUP MAIN WINDOW
+        self.ui = UI_MainWindow()
+        self.ui.setup_ui(self)
+
+        # EXIBI A NOSSA APLICAÇÃO
         self.show()
 
 
