@@ -84,3 +84,38 @@ class PyPushButton(QPushButton):
             self.setStyleSheet(style)
         else:
             self.setStyleSheet(style + active_style)
+
+    def paintEvent(self, event):
+        # Return default style
+        QPushButton.paintEvent(self, event)
+
+        # Painter
+        qp = QPainter()
+        qp.begin(self)
+        qp.setRenderHint(QPainter.Antialiasing)
+        qp.setPen(Qt.NoPen)
+
+        rect = QRect(0, 0, self.minimum_width, self.height())
+
+        self.draw_icon(qp, self.icon_path, rect, self.icon_color)
+
+        qp.end()
+
+    def draw_icon(self, qp, image, rect, color):
+        # Format Path
+        app_path = os.path.abspath(os.getcwd())
+        folder = "gui/images/icons"
+        path = os.path.join(app_path, folder)
+        icon_path = os.path.normpath(os.path.join(path, image))
+
+        # Draw icon
+        icon = QPixmap(icon_path)
+        painter = QPainter(icon)
+        painter.setCompositionMode(QPainter.CompositionMode_SourceIn)
+        painter.fillRect(icon.rect(), color)
+        qp.drawPixmap(
+            (rect.width()-icon.width())/2,
+            (rect.height()-icon.height())/2,
+            icon
+        )
+        painter.end()
