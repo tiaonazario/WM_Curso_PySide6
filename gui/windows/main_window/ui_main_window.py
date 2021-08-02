@@ -11,18 +11,21 @@ class UI_MainWindow(object):
             parent.setObjectName("MainWindow")
 
         # SET INITIAL PARAMETERS
+        # /////////////////////////////////////////////////////////////////////
         parent.resize(1200, 620)
         parent.setMinimumSize(960, 540)
 
         # CREATE CENTRAL WIDGET
+        # /////////////////////////////////////////////////////////////////////
         self.central_frame = QFrame()
 
-        # CREATE LAYOUT
+        # CREATE MAIN LAYOUT
         self.main_layout = QHBoxLayout(self.central_frame)
         self.main_layout.setContentsMargins(0, 0, 0, 0)
         self.main_layout.setSpacing(0)
 
         # LEFT MENU
+        # /////////////////////////////////////////////////////////////////////
         self.left_menu = QFrame()
         self.left_menu.setStyleSheet("background-color: #44475a")
         self.left_menu.setMaximumWidth(50)
@@ -46,20 +49,22 @@ class UI_MainWindow(object):
         self.left_menu_top_layout.setSpacing(0)
 
         # TOP BTNS
-        self.togle_button = QPushButton("Toggle")
+        self.toggle_button = QPushButton("Toggle")
         self.btn_1 = QPushButton("1")
         self.btn_2 = QPushButton("2")
 
         # ADD BTNS TO LAYOUT
-        self.left_menu_top_layout.addWidget(self.togle_button)
+        self.left_menu_top_layout.addWidget(self.toggle_button)
         self.left_menu_top_layout.addWidget(self.btn_1)
         self.left_menu_top_layout.addWidget(self.btn_2)
 
         # MENU SPACER
+        # /////////////////////////////////////////////////////////////////////
         self.left_menu_spacer = QSpacerItem(
             20, 20, QSizePolicy.Minimum, QSizePolicy.Expanding)
 
         # BOTTOM FRAME MENU
+        # /////////////////////////////////////////////////////////////////////
         self.left_menu_bottom_frame = QFrame()
         self.left_menu_bottom_frame.setMinimumHeight(50)
         self.left_menu_bottom_frame.setObjectName("left_menu_bottom_frame")
@@ -78,6 +83,7 @@ class UI_MainWindow(object):
         self.left_menu_bottom_layout.addWidget(self.settings_btn)
 
         # LABEL VERSION
+        # /////////////////////////////////////////////////////////////////////
         self.left_menu_label_version = QLabel("v1.0.0")
         self.left_menu_label_version.setAlignment(Qt.AlignCenter)
         self.left_menu_label_version.setMinimumHeight(30)
@@ -91,6 +97,7 @@ class UI_MainWindow(object):
         self.left_menu_layout.addWidget(self.left_menu_label_version)
 
         # CONTENT
+        # /////////////////////////////////////////////////////////////////////
         self.content = QFrame()
         self.content.setStyleSheet("background-color: #282a36")
 
@@ -100,6 +107,7 @@ class UI_MainWindow(object):
         self.content_layout.setSpacing(0)
 
         # TOP BAR
+        # /////////////////////////////////////////////////////////////////////
         self.top_bar = QFrame()
         self.top_bar.setFixedHeight(30)
         self.top_bar.setStyleSheet("background-color: #21232d; color: #6272a4")
@@ -130,6 +138,7 @@ class UI_MainWindow(object):
         self.pages.setCurrentWidget(self.ui_pages.page_1)
 
         # BOTTOM BAR
+        # /////////////////////////////////////////////////////////////////////
         self.bottom_bar = QFrame()
         self.bottom_bar.setFixedHeight(30)
         self.bottom_bar.setStyleSheet(
@@ -158,8 +167,10 @@ class UI_MainWindow(object):
         self.content_layout.addWidget(self.bottom_bar)
 
         # ADD WIDGET TO APP
+        # /////////////////////////////////////////////////////////////////////
         self.main_layout.addWidget(self.left_menu)
         self.main_layout.addWidget(self.content)
 
         # SET CENTRAL WIDGET
+        # /////////////////////////////////////////////////////////////////////
         parent.setCentralWidget(self.central_frame)
