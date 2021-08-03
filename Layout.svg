@@ -1,246 +1,108 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="1200"
-   height="720"
-   viewBox="0 0 317.5 190.50001"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="Layout.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="px"
-     showgrid="false"
-     units="px"
-     inkscape:snap-object-midpoints="true"
-     inkscape:zoom="1"
-     inkscape:cx="609.5"
-     inkscape:cy="372.5"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs2">
-    <inkscape:path-effect
-       hide_knots="false"
-       only_selected="true"
-       apply_with_radius="true"
-       apply_no_radius="true"
-       use_knot_distance="true"
-       flexible="false"
-       chamfer_steps="1"
-       radius="1"
-       mode="F"
-       method="auto"
-       unit="px"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       lpeversion="1"
-       is_visible="true"
-       id="path-effect1635"
-       effect="fillet_chamfer" />
-  </defs>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#282a36;fill-opacity:1;stroke-width:2.99667;stroke-linecap:round"
-       id="rect31"
-       width="317.5"
-       height="190.5"
-       x="4.1666667e-06"
-       y="2.4999999e-06"
-       sodipodi:insensitive="true" />
-    <rect
-       style="fill:#44475a;fill-opacity:1;stroke-width:0.611693;stroke-linecap:round"
-       id="rect964"
-       width="13.229167"
-       height="190.5"
-       x="0"
-       y="-1.7763568e-15" />
-    <rect
-       style="fill:#21232d;fill-opacity:1;stroke-width:0.598815;stroke-linecap:round"
-       id="rect1408"
-       width="304.27084"
-       height="7.9375"
-       x="13.229167"
-       y="2.4999999e-06" />
-    <rect
-       style="fill:#21232d;fill-opacity:1;stroke-width:0.598815;stroke-linecap:round"
-       id="rect1408-9"
-       width="304.27084"
-       height="7.9375"
-       x="13.229167"
-       y="182.5625" />
-    <path
-       inkscape:export-ydpi="288.13419"
-       inkscape:export-xdpi="288.13419"
-       inkscape:export-filename="E:\ESTUDOS\TUTORIAIS\NEW\Qt Widgets Projects\PyOneDark\Layout\Exports\Preview_01.png"
-       id="rect4"
-       style="fill:#c3ccdf;fill-opacity:1;stroke-width:0.0149578"
-       d="m 4.2333335,3.6989993 v 0.529166 h 4.7625001 v -0.529166 z m 0,2.1218341 v 0.529167 h 4.7625001 v -0.529167 z m 0,2.121834 v 0.529167 h 4.7625001 v -0.529167 z" />
-    <path
-       id="path872"
-       style="fill:#c3ccdf;fill-opacity:1;stroke:#333333;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 6.8613431,172.5083 c -0.093681,6.4e-4 -0.1871997,0.006 -0.2801627,0.0168 -0.1451336,0.0165 -0.2178365,0.13291 -0.2178503,0.24943 -7.2e-6,0.28489 -0.2309488,0.51584 -0.5158328,0.51585 -0.115515,4e-5 -0.22483,-0.0385 -0.3129588,-0.10564 -0.1149232,-0.0876 -0.259497,-0.13974 -0.3707019,-0.045 -0.129624,0.11039 -0.2482938,0.23303 -0.3543526,0.36622 -0.090983,0.11426 -0.060095,0.24801 0.022258,0.33038 0.2014445,0.20146 0.2014445,0.52807 0,0.72953 -0.081659,0.0816 -0.1861503,0.13165 -0.295927,0.14643 -0.1432137,0.0193 -0.2823089,0.0846 -0.2939976,0.23022 -0.00565,0.0704 -0.00848,0.14095 -0.00849,0.2116 1.38e-5,0.0997 0.00566,0.19924 0.016894,0.29816 0.016479,0.14513 0.1328666,0.21787 0.2492986,0.21786 0.284884,1e-5 0.5158255,0.23096 0.5158327,0.51585 -5e-6,0.11544 -0.038496,0.22468 -0.1056293,0.31275 -0.0876,0.11493 -0.1397345,0.25951 -0.045037,0.37072 0.1103825,0.12962 0.2330221,0.2483 0.3662066,0.35436 0.1142547,0.091 0.2479949,0.0601 0.3303645,-0.0222 0.09462,-0.0946 0.2223009,-0.14876 0.3560881,-0.151 0.1397958,-0.002 0.2745598,0.0521 0.3734297,0.151 0.081631,0.0817 0.1316434,0.18616 0.1464235,0.29594 0.019282,0.14321 0.084618,0.28231 0.2302139,0.29399 0.070406,0.006 0.1410459,0.008 0.2117494,0.008 0.099638,-1e-5 0.1991239,-0.006 0.2979864,-0.0169 0.1451323,-0.0165 0.2178695,-0.13286 0.2178472,-0.2493 7.3e-6,-0.28489 0.2309487,-0.51584 0.5158327,-0.51585 0.1154582,0 0.2247125,0.0385 0.3127998,0.10564 0.1149233,0.0876 0.259497,0.13974 0.3707018,0.045 0.1296238,-0.11039 0.2482933,-0.23303 0.3543519,-0.36622 0.090983,-0.11426 0.060095,-0.24801 -0.022258,-0.33038 -0.2014445,-0.20146 -0.2014445,-0.52807 0,-0.72953 0.09462,-0.0946 0.2223004,-0.14876 0.3560873,-0.151 0.1121038,-0.002 0.2223066,-0.08 0.2339954,-0.22564 0.00565,-0.0704 0.00849,-0.14105 0.00849,-0.21176 -2.35e-5,-0.0996 -0.00567,-0.19914 -0.016898,-0.29801 -0.016479,-0.14513 -0.13294,-0.21784 -0.2494585,-0.21786 -0.2848845,-1e-5 -0.5158266,-0.23096 -0.5158338,-0.51585 -6.1e-6,-0.11546 0.038487,-0.22471 0.10563,-0.3128 0.087601,-0.11493 0.139748,-0.25952 0.045065,-0.37074 -0.1103899,-0.12967 -0.2330437,-0.24838 -0.3662483,-0.35448 -0.1142465,-0.091 -0.247951,-0.06 -0.3303525,0.0224 -0.2014511,0.20146 -0.5280659,0.20146 -0.729517,0 -0.081635,-0.0817 -0.1316486,-0.18616 -0.1464275,-0.29595 -0.01928,-0.14321 -0.084614,-0.28231 -0.2302099,-0.29399 -0.070354,-0.006 -0.1409399,-0.008 -0.2115903,-0.008 -0.00594,-2e-5 -0.011879,-2e-5 -0.017819,0 z m 0.01782,1.78049 c 0.4778543,1e-5 0.8652305,0.38739 0.8652373,0.86526 8.16e-5,0.47793 -0.3873204,0.86541 -0.8652373,0.86542 -0.477917,-1e-5 -0.8653195,-0.38749 -0.8652379,-0.86542 6.8e-6,-0.47787 0.3873834,-0.86525 0.8652379,-0.86526 z" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-       x="16.404169"
-       y="187.58958"
-       id="text7407"><tspan
-         sodipodi:role="line"
-         id="tspan7405"
-         style="font-size:3.175px;fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-         x="16.404169"
-         y="187.58958">Criado por: Wanderson M. Pimenta</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-       x="303.60016"
-       y="187.60587"
-       id="text7407-6"><tspan
-         sodipodi:role="line"
-         id="tspan7405-7"
-         style="font-size:3.175px;fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-         x="303.60016"
-         y="187.60587">© 2021</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-       x="16.356882"
-       y="5.0348425"
-       id="text7407-5"><tspan
-         sodipodi:role="line"
-         id="tspan7405-9"
-         style="font-size:3.175px;fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-         x="16.356882"
-         y="5.0348425">Essa é minha primeira aplicação com Qt Widgets</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-       x="288.61313"
-       y="5.0348425"
-       id="text21973"><tspan
-         sodipodi:role="line"
-         id="tspan21971"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#6272a4;fill-opacity:1;stroke-width:0.264583"
-         x="288.61313"
-         y="5.0348425">| PÁGINA INICIAL</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:5.64444px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#f8f8f2;fill-opacity:1;stroke-width:0.264583"
-       x="144.15114"
-       y="97.224731"
-       id="text23928"><tspan
-         sodipodi:role="line"
-         id="tspan23926"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#f8f8f2;fill-opacity:1;stroke-width:0.264583"
-         x="144.15114"
-         y="97.224731">PÁGINA INICIAL</tspan></text>
-    <rect
-       style="fill:#4f5368;fill-opacity:1;stroke-width:3.41957;stroke-linecap:round"
-       id="rect29803"
-       width="13.229167"
-       height="10.583334"
-       x="5.5511151e-17"
-       y="12.170833" />
-    <path
-       inkscape:export-ydpi="288.13419"
-       inkscape:export-xdpi="288.13419"
-       inkscape:export-filename="E:\ESTUDOS\TUTORIAIS\NEW\Qt Widgets Projects\PyOneDark\Layout\Exports\Preview_01.png"
-       id="path924"
-       class="ci-primary"
-       d="m 6.7570635,15.426509 c -0.12676,-0.110868 -0.32292,-0.106982 -0.44471,0.0088 -0.54091,0.514215 -1.08177,1.028471 -1.62268,1.542685 -0.1059,0.100686 -0.19176,0.300754 -0.19176,0.446879 v 1.889698 a 0.26458332,0.26458332 0 0 0 0.26459,0.264584 h 1.13392 a 0.26458332,0.26458332 0 0 0 0.26459,-0.264584 v -1.018815 a 0.13229166,0.13229166 0 0 1 0.13229,-0.132292 h 0.64256 a 0.13229166,0.13229166 0 0 1 0.13229,0.132292 v 1.018815 a 0.26458332,0.26458332 0 0 0 0.26458,0.264584 h 1.13393 a 0.26458332,0.26458332 0 0 0 0.26459,-0.264584 V 17.41785 c 0,-0.146126 -0.0892,-0.34258 -0.19914,-0.438789 -0.59165,-0.517555 -1.18337,-1.035038 -1.77505,-1.552552 z m -0.21784,0.301963 c 1.2e-4,-0.0016 1.2e-4,-0.0016 1.2e-4,-0.0016 z m 1.5666,3.481366 h -0.40055 a 0.26458332,0.26458332 0 0 1 -0.26458,-0.264584 v -0.875328 c 0,-0.158767 -0.13538,-0.287474 -0.30238,-0.287474 h -1.08254 c -0.167,0 -0.30238,0.128707 -0.30238,0.287474 v 0.875328 a 0.26458332,0.26458332 0 0 1 -0.26458,0.264584 h -0.34208 a 0.26458332,0.26458332 0 0 1 -0.26459,-0.264584 V 17.6375 a 0.63429308,0.63429308 0 0 1 0.18802,-0.450739 l 1.37517,-1.361555 c 0.0519,-0.0514 0.094,-0.09339 0.0942,-0.09339 l 1.63381,1.464505 a 0.59248394,0.59248394 0 0 1 0.19702,0.441184 v 1.307755 a 0.26458332,0.26458332 0 0 1 -0.26458,0.264585 z"
-       fill="var(--ci-primary-color, currentColor)"
-       style="fill:#c3ccdf;fill-opacity:1;stroke-width:0.00921352"
-       sodipodi:nodetypes="cccccccccccscsccssssccccccc" />
-    <g
-       id="g1592"
-       transform="matrix(0.26458334,0,0,0.26458334,4.2333332,25.664583)">
-      <g
-         id="g6"
-         transform="matrix(0.03674969,0,0,0.03674969,9.19e-7,-1.3853197e-5)"
-         style="fill:#c3ccdf;fill-opacity:1">
-        <g
-           id="g4"
-           style="fill:#c3ccdf;fill-opacity:1">
-          <path
-             d="m 489.8,280.92 c 0,-13.9 -11.3,-25.2 -25.2,-25.2 h -74.1 c -62.1,0 -112.4,50.2 -112.7,112.2 -0.1,32.3 -23,61 -55,65 -38.4,4.8 -71.2,-25.2 -71.2,-62.6 v -56.4 c 57.6,-11.7 101,-62.6 101,-123.7 v -64 c 0,-9.1 -7.3,-16.4 -16.4,-16.4 h -31.3 v -79.1 c 0,-12.4 -9,-23.4 -21.3,-24.6 -14.1,-1.4 -26,9.7 -26,23.6 v 80.1 H 95.2 v -79.1 c 0,-12.4 -9,-23.4 -21.4,-24.6 -14.1,-1.3 -26,9.7 -26,23.6 v 80.1 H 16.4 c -9.1,0 -16.4,7.3 -16.4,16.4 v 64 c 0,61.1 43.4,112 101,123.7 v 53.5 c 0,61.5 47.7,114 109.2,116.3 64.6,2.4 118,-49.4 118,-113.5 v -0.9 c 0,-34.9 28.3,-63.1 63.1,-63.1 h 73.2 c 14,-0.1 25.3,-11.4 25.3,-25.3 z"
-             id="path2"
-             style="fill:#c3ccdf;fill-opacity:1" />
-        </g>
-      </g>
-      <g
-         id="g8" />
-      <g
-         id="g10" />
-      <g
-         id="g12" />
-      <g
-         id="g14" />
-      <g
-         id="g16" />
-      <g
-         id="g18" />
-      <g
-         id="g20" />
-      <g
-         id="g22" />
-      <g
-         id="g24" />
-      <g
-         id="g26" />
-      <g
-         id="g28" />
-      <g
-         id="g30" />
-      <g
-         id="g32" />
-      <g
-         id="g34" />
-      <g
-         id="g36" />
-    </g>
-    <rect
-       style="fill:#282a36;fill-opacity:1;stroke-width:1.08137;stroke-linecap:round"
-       id="rect42661"
-       width="1.3229167"
-       height="10.583334"
-       x="11.90625"
-       y="12.170833" />
-    <rect
-       style="fill:#3c3f50;fill-opacity:1;stroke-width:0.124861;stroke-linecap:round"
-       id="rect43768"
-       width="13.229167"
-       height="7.9375"
-       x="0"
-       y="182.5625" />
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#c3ccdf;fill-opacity:1;stroke-width:0.264583"
-       x="2.6528099"
-       y="187.64824"
-       id="text18642"><tspan
-         sodipodi:role="line"
-         id="tspan18640"
-         style="font-size:3.175px;fill:#c3ccdf;fill-opacity:1;stroke-width:0.264583"
-         x="2.6528099"
-         y="187.64824">v1.0.0</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg5" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1200 720"
+	 style="enable-background:new 0 0 1200 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#282A36;}
+	.st1{fill:#44475A;}
+	.st2{fill:#21232D;}
+	.st3{fill:#C3CCDF;}
+	.st4{fill:#6272A4;}
+	.st5{font-family:'SegoeUI';}
+	.st6{font-size:12px;}
+	.st7{font-family:'SegoeUI-Bold';}
+	.st8{fill:#F8F8F2;}
+	.st9{font-size:21.3333px;}
+	.st10{fill:#4F5368;}
+	.st11{fill:#3C3F50;}
+</style>
+<sodipodi:namedview  bordercolor="#eeeeee" borderopacity="1" id="namedview7" inkscape:current-layer="layer1" inkscape:cx="609.5" inkscape:cy="372.5" inkscape:document-units="px" inkscape:pagecheckerboard="0" inkscape:pageopacity="0" inkscape:pageshadow="0" inkscape:snap-object-midpoints="true" inkscape:window-height="1009" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:zoom="1" pagecolor="#505050" showgrid="false" units="px">
+	</sodipodi:namedview>
+<defs>
+	
+		<inkscape:path-effect  apply_no_radius="true" apply_with_radius="true" chamfer_steps="1" effect="fillet_chamfer" flexible="false" hide_knots="false" id="path-effect1635" is_visible="true" lpeversion="1" method="auto" mode="F" only_selected="true" radius="1" satellites_param="F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,1,1,0,0.26458333,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" unit="px" use_knot_distance="true">
+		</inkscape:path-effect>
+</defs>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<rect id="rect31" x="0" y="0" sodipodi:insensitive="true" class="st0" width="1200" height="720">
+	</rect>
+	<rect id="rect964" x="0" y="0" class="st1" width="50" height="720"/>
+	<rect id="rect1408" x="50" y="0" class="st2" width="1150" height="30"/>
+	<rect id="rect1408-9" x="50" y="690" class="st2" width="1150" height="30"/>
+	
+		<path id="rect4" inkscape:export-filename="E:\ESTUDOS\TUTORIAIS\NEW\Qt Widgets Projects\PyOneDark\Layout\Exports\Preview_01.png" inkscape:export-xdpi="288.13419" inkscape:export-ydpi="288.13419" class="st3" d="
+		M16,14v2h18v-2L16,14z M16,22v2h18v-2H16z M16,30v2h18v-2H16z"/>
+	<path id="path872" class="st3" d="M25.9,652c-0.4,0-0.7,0-1.1,0.1c-0.5,0.1-0.8,0.5-0.8,0.9c0,1.1-0.9,1.9-1.9,1.9
+		c-0.4,0-0.8-0.1-1.2-0.4c-0.4-0.3-1-0.5-1.4-0.2c-0.5,0.4-0.9,0.9-1.3,1.4c-0.3,0.4-0.2,0.9,0.1,1.2c0.8,0.8,0.8,2,0,2.8
+		c-0.3,0.3-0.7,0.5-1.1,0.6c-0.5,0.1-1.1,0.3-1.1,0.9c0,0.3,0,0.5,0,0.8c0,0.4,0,0.8,0.1,1.1c0.1,0.5,0.5,0.8,0.9,0.8
+		c1.1,0,1.9,0.9,1.9,1.9c0,0.4-0.1,0.8-0.4,1.2c-0.3,0.4-0.5,1-0.2,1.4c0.4,0.5,0.9,0.9,1.4,1.3c0.4,0.3,0.9,0.2,1.2-0.1
+		c0.4-0.4,0.8-0.6,1.3-0.6c0.5,0,1,0.2,1.4,0.6c0.3,0.3,0.5,0.7,0.6,1.1c0.1,0.5,0.3,1.1,0.9,1.1c0.3,0,0.5,0,0.8,0
+		c0.4,0,0.8,0,1.1-0.1c0.5-0.1,0.8-0.5,0.8-0.9c0-1.1,0.9-1.9,1.9-1.9c0.4,0,0.8,0.1,1.2,0.4c0.4,0.3,1,0.5,1.4,0.2
+		c0.5-0.4,0.9-0.9,1.3-1.4c0.3-0.4,0.2-0.9-0.1-1.2c-0.8-0.8-0.8-2,0-2.8c0.4-0.4,0.8-0.6,1.3-0.6c0.4,0,0.8-0.3,0.9-0.9
+		c0-0.3,0-0.5,0-0.8c0-0.4,0-0.8-0.1-1.1c-0.1-0.5-0.5-0.8-0.9-0.8c-1.1,0-1.9-0.9-1.9-1.9c0-0.4,0.1-0.8,0.4-1.2
+		c0.3-0.4,0.5-1,0.2-1.4c-0.4-0.5-0.9-0.9-1.4-1.3c-0.4-0.3-0.9-0.2-1.2,0.1c-0.8,0.8-2,0.8-2.8,0c-0.3-0.3-0.5-0.7-0.6-1.1
+		c-0.1-0.5-0.3-1.1-0.9-1.1C26.5,652,26.3,652,25.9,652C26,652,26,652,25.9,652L25.9,652z M26,658.7c1.8,0,3.3,1.5,3.3,3.3
+		c0,1.8-1.5,3.3-3.3,3.3c-1.8,0-3.3-1.5-3.3-3.3C22.7,660.2,24.2,658.7,26,658.7z"/>
+	<text transform="matrix(1 0 0 1 62 708.999)" class="st4 st5 st6">Criado por: Tião Nazário</text>
+	<text transform="matrix(1 0 0 1 1147.4648 709.0615)" class="st4 st5 st6">© 2021</text>
+	<text transform="matrix(1 0 0 1 61.8223 19.0283)" class="st4 st5 st6">Essa é minha primeira aplicação com Qt Widgets</text>
+	<text transform="matrix(1 0 0 1 1090.8223 19.0283)" class="st4 st7 st6">| PÁGINA INICIAL</text>
+	<text transform="matrix(1 0 0 1 544.8242 367.4638)" class="st8 st7 st9">PÁGINA INICIAL</text>
+	<rect id="rect29803" x="0" y="46" class="st10" width="50" height="40"/>
+	
+		<path id="path924" inkscape:export-filename="E:\ESTUDOS\TUTORIAIS\NEW\Qt Widgets Projects\PyOneDark\Layout\Exports\Preview_01.png" inkscape:export-xdpi="288.13419" inkscape:export-ydpi="288.13419" sodipodi:nodetypes="cccccccccccscsccssssccccccc" class="st3" d="
+		M25.5,58.3c-0.5-0.4-1.2-0.4-1.7,0c-2,1.9-4.1,3.9-6.1,5.8c-0.4,0.4-0.7,1.1-0.7,1.7V73c0,0.6,0.4,1,1,1c0,0,0,0,0,0h4.3
+		c0.6,0,1-0.4,1-1c0,0,0,0,0,0v-3.9c0-0.3,0.2-0.5,0.5-0.5h2.4c0.3,0,0.5,0.2,0.5,0.5V73c0,0.6,0.4,1,1,1H32c0.6,0,1-0.4,1-1
+		c0,0,0,0,0,0v-7.2c0-0.6-0.3-1.3-0.8-1.7C30,62.2,27.8,60.3,25.5,58.3z M24.7,59.4C24.7,59.4,24.7,59.4,24.7,59.4L24.7,59.4z
+		 M30.6,72.6h-1.5c-0.6,0-1-0.4-1-1v-3.3c0-0.6-0.5-1.1-1.1-1.1h-4.1c-0.6,0-1.1,0.5-1.1,1.1v3.3c0,0.6-0.4,1-1,1h-1.3
+		c-0.6,0-1-0.4-1-1c0,0,0,0,0,0v-4.9c0-0.6,0.3-1.3,0.7-1.7l5.2-5.1c0.2-0.2,0.4-0.4,0.4-0.4l6.2,5.5c0.5,0.4,0.7,1,0.7,1.7v4.9
+		C31.6,72.2,31.2,72.6,30.6,72.6L30.6,72.6z"/>
+	<g id="g1592" transform="matrix(0.26458334,0,0,0.26458334,4.2333332,25.664583)">
+		<g id="g6" transform="matrix(0.03674969,0,0,0.03674969,9.19e-7,-1.3853197e-5)">
+			<g id="g4">
+				<path id="path2" class="st3" d="M3061.3,8398.2c0-52.5-42.7-95.2-95.2-95.2H2686c-234.7,0-424.8,189.7-425.9,424.1
+					c-0.4,122.1-86.9,230.5-207.9,245.7c-145.1,18.1-269.1-95.2-269.1-236.6v-213.2c217.7-44.2,381.7-236.6,381.7-467.5v-241.9
+					c0-34.4-27.6-62-62-62h-118.3v-299c0-46.9-34-88.4-80.5-93c-53.3-5.3-98.3,36.7-98.3,89.2v302.7H1570v-299
+					c0-46.9-34-88.4-80.9-93c-53.3-4.9-98.3,36.7-98.3,89.2v302.7h-118.7c-34.4,0-62,27.6-62,62v241.9
+					c0,230.9,164,423.3,381.7,467.5v202.2c0,232.4,180.3,430.9,412.7,439.6c244.2,9.1,446-186.7,446-429v-3.4
+					c0-131.9,107-238.5,238.5-238.5h276.7C3018.6,8493.4,3061.3,8450.7,3061.3,8398.2z"/>
+			</g>
+		</g>
+		<g id="g8">
+		</g>
+		<g id="g10">
+		</g>
+		<g id="g12">
+		</g>
+		<g id="g14">
+		</g>
+		<g id="g16">
+		</g>
+		<g id="g18">
+		</g>
+		<g id="g20">
+		</g>
+		<g id="g22">
+		</g>
+		<g id="g24">
+		</g>
+		<g id="g26">
+		</g>
+		<g id="g28">
+		</g>
+		<g id="g30">
+		</g>
+		<g id="g32">
+		</g>
+		<g id="g34">
+		</g>
+		<g id="g36">
+		</g>
+	</g>
+	<rect id="rect42661" x="45" y="46" class="st0" width="5" height="40"/>
+	<rect id="rect43768" x="0" y="690" class="st11" width="50" height="30"/>
+	<text transform="matrix(1 0 0 1 10.0273 709.2216)" class="st3 st5 st6">v1.0.0</text>
+</g>
 </svg>

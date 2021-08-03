@@ -20,8 +20,39 @@ class MainWindow(QMainWindow):
         # Toggle button
         self.ui.toggle_button.clicked.connect(self.toggle_botton)
 
+        # Btn home
+        self.ui.btn_1.clicked.connect(self.show_page_1)
+
+        # Btn widgets
+        self.ui.btn_2.clicked.connect(self.show_page_2)
+
+        # Btn settings
+        self.ui.settings_btn.clicked.connect(self.show_page_3)
+
         # EXIBI A NOSSA APLICAÇÃO
         self.show()
+
+    def reset_selection(self):
+        for btn in self.ui.left_menu.findChildren(QPushButton):
+            try:
+                btn.set_active(False)
+            except:
+                pass
+
+    def show_page_1(self):
+        self.reset_selection()
+        self.ui.pages.setCurrentWidget(self.ui.ui_pages.page_1)
+        self.ui.btn_1.set_active(True)
+
+    def show_page_2(self):
+        self.reset_selection()
+        self.ui.pages.setCurrentWidget(self.ui.ui_pages.page_2)
+        self.ui.btn_2.set_active(True)
+
+    def show_page_3(self):
+        self.reset_selection()
+        self.ui.pages.setCurrentWidget(self.ui.ui_pages.page_3)
+        self.ui.settings_btn.set_active(True)
 
     def toggle_botton(self):
         # Get menu width
